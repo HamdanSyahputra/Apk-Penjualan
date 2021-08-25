@@ -1,0 +1,33 @@
+D:\uas visual\penjualan\penjualan\bin\Debug\penjualan.exe
+D:\uas visual\penjualan\penjualan\bin\Debug\penjualan.pdb
+D:\uas visual\penjualan\penjualan\bin\Debug\penjualan.xml
+D:\uas visual\penjualan\penjualan\obj\x86\Debug\penjualan.Resources.resources
+D:\uas visual\penjualan\penjualan\obj\x86\Debug\penjualan.vbproj.GenerateResource.Cache
+D:\uas visual\penjualan\penjualan\obj\x86\Debug\penjualan.exe
+D:\uas visual\penjualan\penjualan\obj\x86\Debug\penjualan.xml
+D:\uas visual\penjualan\penjualan\obj\x86\Debug\penjualan.pdb
+D:\uas visual\penjualan\penjualan\obj\x86\Debug\penjualan.produk.resources
+D:\uas visual\penjualan\penjualan\obj\x86\Debug\penjualan.CariDataFaktur.resources
+D:\uas visual\penjualan\penjualan\obj\x86\Debug\penjualan.CariDataProduk.resources
+D:\uas visual\penjualan\penjualan\obj\x86\Debug\penjualan.caripelanggan.resources
+D:\uas visual\penjualan\penjualan\obj\x86\Debug\penjualan.Faktur.resources
+D:\uas visual\penjualan\penjualan\obj\x86\Debug\penjualan.FormPenjualan.resources
+D:\uas visual\penjualan\penjualan\obj\x86\Debug\penjualan.Pelanggan.resources
+D:\penjualan\penjualan\penjualan\obj\x86\Debug\penjualan.exe
+D:\penjualan\penjualan\penjualan\obj\x86\Debug\penjualan.xml
+D:\penjualan\penjualan\penjualan\obj\x86\Debug\penjualan.pdb
+F:\penjualan\penjualan\penjualan\obj\x86\Debug\penjualan.exe
+F:\penjualan\penjualan\penjualan\obj\x86\Debug\penjualan.xml
+F:\penjualan\penjualan\penjualan\obj\x86\Debug\penjualan.pdb
+D:\penjualan\penjualan\penjualan\bin\Debug\penjualan.exe
+D:\penjualan\penjualan\penjualan\bin\Debug\penjualan.pdb
+D:\penjualan\penjualan\penjualan\bin\Debug\penjualan.xml
+D:\penjualan\penjualan\penjualan\obj\x86\Debug\penjualan.CariDataFaktur.resources
+D:\penjualan\penjualan\penjualan\obj\x86\Debug\penjualan.CariDataProduk.resources
+D:\penjualan\penjualan\penjualan\obj\x86\Debug\penjualan.caripelanggan.resources
+D:\penjualan\penjualan\penjualan\obj\x86\Debug\penjualan.Faktur.resources
+D:\penjualan\penjualan\penjualan\obj\x86\Debug\penjualan.FormPenjualan.resources
+D:\penjualan\penjualan\penjualan\obj\x86\Debug\penjualan.Pelanggan.resources
+D:\penjualan\penjualan\penjualan\obj\x86\Debug\penjualan.Resources.resources
+D:\penjualan\penjualan\penjualan\obj\x86\Debug\penjualan.produk.resources
+D:\penjualan\penjualan\penjualan\obj\x86\Debug\penjualan.vbproj.GenerateResource.Cache
